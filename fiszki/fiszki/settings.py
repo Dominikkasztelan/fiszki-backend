@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'fiszki.wsgi.application'
 
 DATABASES = {
     'default': dj_database_url.config(
-        default='psql postgresql://neondb_owner:npg_sfqktyOAWI50@ep-calm-resonance-agyyd59j-pooler.c-2.eu-central-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require',
+        default='postgresql://neondb_owner:npg_sfqktyOAWI50@ep-calm-resonance-agyyd59j-pooler.c-2.eu-central-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require',
         conn_max_age=600,
         ssl_require=True
     )
