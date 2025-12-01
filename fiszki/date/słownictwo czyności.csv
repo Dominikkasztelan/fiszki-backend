@@ -1,0 +1,401 @@
+Indeks,Słowo (Polski),Tłumaczenie (Angielski),Wymowa US,Wymowa UK
+1,Pracować,Work,/wɝːk/,/wɜːk/
+2,Pytać,Ask,/æsk/,/ɑːsk/
+3,Mówić,Speak,/spiːk/,/spiːk/
+4,Dawać,Give,/ɡɪv/,/ɡɪv/
+5,Brać,Take,/teɪk/,/teɪk/
+6,Myśleć,Think,/θɪŋk/,/θɪŋk/
+7,Oglądać,Watch,/wɑːtʃ/,/wɒtʃ/
+8,Chodzić,Walk,/wɑːk/,/wɔːk/
+9,Jeść,Eat,/iːt/,/iːt/
+10,Grać,Play,/pleɪ/,/pleɪ/
+11,Pomagać,Help,/help/,/help/
+12,Czytać,Read,/riːd/,/riːd/
+13,Pisać,Write,/raɪt/,/raɪt/
+14,Słuchać,Listen,/ˈlɪs.ən/,/ˈlɪs.ən/
+15,Opuszczać,Leave,/liːv/,/liːv/
+16,Czekać,Wait,/weɪt/,/weɪt/
+17,Spać,Sleep,/sliːp/,/sliːp/
+18,Biegać,Run,/rʌn/,/rʌn/
+19,Używać,Use,/juːz/,/juːz/
+20,Kupować,Buy,/baɪ/,/baɪ/
+21,Płacić,Pay,/peɪ/,/peɪ/
+22,Uczyć się,Learn,/lɝːn/,/lɜːn/
+23,Zaczynać,Start,/stɑːrt/,/stɑːt/
+24,Zatrzymywać,Stop,/stɑːp/,/stɒp/
+25,Stać,Stand,/stænd/,/stænd/
+26,Siedzieć,Sit,/sɪt/,/sɪt/
+27,Otwierać,Open,/ˈoʊ.pən/,/ˈəʊ.pən/
+28,Zamykać,Close,/kloʊz/,/kləʊz/
+29,Uczyć (kogoś),Teach,/tiːtʃ/,/tiːtʃ/
+30,Prowadzić (samochód),Drive,/draɪv/,/draɪv/
+31,Rozumieć,Understand,/ˌʌn.dɚˈstænd/,/ˌʌn.dəˈstænd/
+32,Pamiętać,Remember,/rɪˈmem.bɚ/,/rɪˈmem.bə/
+33,Wierzyć,Believe,/bɪˈliːv/,/bɪˈliːv/
+34,Próbować,Try,/traɪ/,/traɪ/
+35,Sprawdzać,Check,/tʃek/,/tʃek/
+36,Wybierać,Choose,/tʃuːz/,/tʃuːz/
+37,Znajdować,Find,/faɪnd/,/faɪnd/
+38,Szukać,Seek / Look for,/siːk/ /lʊk fɔːr/,/siːk/ /lʊk fɔː(r)/
+39,Pić,Drink,/drɪŋk/,/drɪŋk/
+40,Sprzedawać,Sell,/sel/,/sel/
+41,Odpowiadać,Answer,/ˈæn.sɚ/,/ˈɑːn.sə/
+42,Śmiać się,Laugh,/læf/,/lɑːf/
+43,Uśmiechać się,Smile,/smaɪl/,/smaɪl/
+44,Płakać,Cry,/kraɪ/,/kraɪ/
+45,Umierać,Die,/daɪ/,/daɪ/
+46,Budować,Build,/bɪld/,/bɪld/
+47,Planować,Plan,/plæn/,/plæn/
+48,Ciąć,Cut,/kʌt/,/kʌt/
+49,Dołączać,Join,/dʒɔɪn/,/dʒɔɪn/
+50,Uczestniczyć,Participate,/pɑːrˈtɪs.ə.peɪt/,/pɑːˈtɪs.ɪ.peɪt/
+51,Decydować,Decide,/dɪˈsaɪd/,/dɪˈsaɪd/
+52,Wyjaśniać,Explain,/ɪkˈspleɪn/,/ɪkˈspleɪn/
+53,Opisywać,Describe,/dɪˈskraɪb/,/dɪˈskraɪb/
+54,Osiągać,Achieve,/əˈtʃiːv/,/əˈtʃiːv/
+55,Ulepszać,Improve,/ɪmˈpruːv/,/ɪmˈpruːv/
+56,Rozwijać,Develop,/dɪˈvel.əp/,/dɪˈvel.əp/
+57,Rosnąć,Grow,/ɡroʊ/,/ɡrəʊ/
+58,Gotować,Cook,/kʊk/,/kʊk/
+59,Sprzątać,Clean,/kliːn/,/kliːn/
+60,Robić zakupy,Shop,/ʃɑːp/,/ʃɒp/
+61,Podróżować,Travel,/ˈtræv.əl/,/ˈtræv.əl/
+62,Pływać,Swim,/swɪm/,/swɪm/
+63,Latać,Fly,/flaɪ/,/flaɪ/
+64,Tańczyć,Dance,/dæns/,/dɑːns/
+65,Śpiewać,Sing,/sɪŋ/,/sɪŋ/
+66,Odpoczywać,Rest,/rest/,/rest/
+67,Relaksować się,Relax,/rɪˈlæks/,/rɪˈlæks/
+68,Ćwiczyć,Exercise,/ˈek.sɚ.saɪz/,/ˈek.sə.saɪz/
+69,Walczyć,Fight,/faɪt/,/faɪt/
+70,Zwyciężać,Win,/wɪn/,/wɪn/
+71,Przegrywać,Lose,/luːz/,/luːz/
+72,Pchać,Push,/pʊʃ/,/pʊʃ/
+73,Ciągnąć,Pull,/pʊl/,/pʊl/
+74,Rzucać,Throw,/θroʊ/,/θrəʊ/
+75,Łapać,Catch,/kætʃ/,/kætʃ/
+76,Ufać,Trust,/trʌst/,/trʌst/
+77,Dzielić się,Share,/ʃer/,/ʃeə/
+78,Unikać,Avoid,/əˈvɔɪd/,/əˈvɔɪd/
+79,Dotykać,Touch,/tʌtʃ/,/tʌtʃ/
+80,Oczekiwać,Expect,/ɪkˈspekt/,/ɪkˈspekt/
+81,Zapominać,Forget,/fɚˈɡet/,/fəˈɡet/
+82,Zarządzać,Manage,/ˈmæn.ədʒ/,/ˈmæn.ɪdʒ/
+83,Obserwować,Follow,/ˈfɑː.loʊ/,/ˈfɒl.əʊ/
+84,Tworzyć,Create,/kriˈeɪt/,/kriˈeɪt/
+85,Pozwalać,Allow,/əˈlaʊ/,/əˈlaʊ/
+86,Prowadzić,Lead,/liːd/,/liːd/
+87,Zgadzać się,Agree,/əˈɡriː/,/əˈɡriː/
+88,Oferować,Offer,/ˈɑː.fɚ/,/ˈɒf.ə/
+89,Marzyć,Dream,/driːm/,/driːm/
+90,Jeździć na rowerze,Cycle,/ˈsaɪ.kəl/,/ˈsaɪ.kəl/
+91,Rysować,Draw,/drɑː/,/drɔː/
+92,Malować,Paint,/peɪnt/,/peɪnt/
+93,Skakać,Jump,/dʒʌmp/,/dʒʌmp/
+94,Zauważać,Notice,/ˈnoʊ.t̬ɪs/,/ˈnəʊ.tɪs/
+95,Naprawiać,Fix / Repair,/fɪks/ /rɪˈper/,/fɪks/ /rɪˈpeə/
+96,Świętować,Celebrate,/ˈsel.ə.breɪt/,/ˈsel.ə.breɪt/
+97,Podnosić,Lift,/lɪft/,/lɪft/
+98,Akceptować,Accept,/əkˈsept/,/əkˈsept/
+99,Odmawiać,Refuse,/rɪˈfjuːz/,/rɪˈfjuːz/
+100,Komunikować się,Communicate,/kəˈmjuː.nə.keɪt/,/kəˈmjuː.nɪ.keɪt/
+101,Porównywać,Compare,/kəmˈper/,/kəmˈpeə/
+102,Sugerować,Suggest,/səˈdʒest/,/səˈdʒest/
+103,Obwiniać,Blame,/bleɪm/,/bleɪm/
+104,Karmić,Feed,/fiːd/,/fiːd/
+105,Parkować,Park,/pɑːrk/,/pɑːk/
+106,Zamiatać,Sweep,/swiːp/,/swiːp/
+107,Prasować,Iron,/ˈaɪ.ɚn/,/ˈaɪən/
+108,Oszczędzać,Save,/seɪv/,/seɪv/
+109,Wydawać,Spend,/spend/,/spend/
+110,Zarabiać,Earn,/ɝːn/,/ɜːn/
+111,Atakować,Attack,/əˈtæk/,/əˈtæk/
+112,Bronić,Defend,/dɪˈfend/,/dɪˈfend/
+113,Kłócić się,Argue,/ˈɑːrɡ.juː/,/ˈɑːɡ.juː/
+114,Krzyczeć,Shout,/ʃaʊt/,/ʃaʊt/
+115,Ukrywać,Hide,/haɪd/,/haɪd/
+116,Potwierdzać,Confirm,/kənˈfɝːm/,/kənˈfɜːm/
+117,Dojeżdżać,Commute,/kəˈmjuːt/,/kəˈmjuːt/
+118,Rezerwować,Book / Reserve,/bʊk/ /rɪˈzɝːv/,/bʊk/ /rɪˈzɜːv/
+119,Pakować,Pack,/pæk/,/pæk/
+120,Edytować,Edit,/ˈed.ɪt/,/ˈed.ɪt/
+121,Kopiować,Copy,/ˈkɑː.pi/,/ˈkɒp.i/
+122,Wklejać,Paste,/peɪst/,/peɪst/
+123,Usuwać,Delete / Remove,/dɪˈliːt/ /rɪˈmuːv/,/dɪˈliːt/ /rɪˈmuːv/
+124,Klikać,Click,/klɪk/,/klɪk/
+125,Pobierać,Download,/ˌdaʊnˈloʊd/,/ˌdaʊnˈləʊd/
+126,Wysyłać,Upload,/ʌpˈloʊd/,/ʌpˈləʊd/
+127,Przeglądać,Browse,/braʊz/,/braʊz/
+128,Wyszukiwać,Search,/sɝːtʃ/,/sɜːtʃ/
+129,Logować się,Log in,/lɑːɡ ɪn/,/lɒɡ ɪn/
+130,Wylogowywać się,Log out,/lɑːɡ aʊt/,/lɒɡ aʊt/
+131,Odnieść sukces,Succeed,/səkˈsiːd/,/səkˈsiːd/
+132,Ponieść porażkę,Fail,/feɪl/,/feɪl/
+133,Ignorować,Ignore,/ɪɡˈnɔːr/,/ɪɡˈnɔː/
+134,Obiecywać,Promise,/ˈprɑː.mɪs/,/ˈprɒm.ɪs/
+135,Ostrzegać,Warn,/wɔːrn/,/wɔːn/
+136,Mierzyć,Measure,/ˈmeʒ.ɚ/,/ˈmeʒ.ə/
+137,Ważyć,Weigh,/weɪ/,/weɪ/
+138,Mieszać,Mix,/mɪks/,/mɪks/
+139,Smażyć,Fry,/fraɪ/,/fraɪ/
+140,Piec,Bake,/beɪk/,/beɪk/
+141,Gotować (w wodzie),Boil,/bɔɪl/,/bɔɪl/
+142,Wspinać się,Climb,/klaɪm/,/klaɪm/
+143,Wędrować,Hike,/haɪk/,/haɪk/
+144,Obozować,Camp,/kæmp/,/kæmp/
+145,Wędkować,Fish,/fɪʃ/,/fɪʃ/
+146,Żeglować,Sail,/seɪl/,/seɪl/
+147,Nurkować,Dive,/daɪv/,/daɪv/
+148,Szyć,Sew,/soʊ/,/səʊ/
+149,Robić na drutach,Knit,/nɪt/,/nɪt/
+150,Sadzić,Plant,/plænt/,/plɑːnt/
+151,Podlewać,Water,/ˈwɔː.t̬ɚ/,/ˈwɔː.tə/
+152,Zbierać plony,Harvest,/ˈhɑːr.vɪst/,/ˈhɑː.vɪst/
+153,Testować,Test,/test/,/test/
+154,Wyobrażać sobie,Imagine,/ɪˈmædʒ.ɪn/,/ɪˈmædʒ.ɪn/
+155,Organizować,Organize,/ˈɔːr.ɡən.aɪz/,/ˈɔː.ɡən.aɪz/
+156,Współpracować,Collaborate,/kəˈlæb.ə.reɪt/,/kəˈlæb.ə.reɪt/
+157,Konkurować,Compete,/kəmˈpiːt/,/kəmˈpiːt/
+158,Negocjować,Negotiate,/nəˈɡoʊ.ʃi.eɪt/,/nəˈɡəʊ.ʃi.eɪt/
+159,Prezentować,Present,/prɪˈzent/,/prɪˈzent/
+160,Rekomendować,Recommend,/ˌrek.əˈmend/,/ˌrek.əˈmend/
+161,Przepraszać,Apologize,/əˈpɑː.lə.dʒaɪz/,/əˈpɒl.ə.dʒaɪz/
+162,Przebaczać,Forgive,/fɚˈɡɪv/,/fəˈɡɪv/
+163,Narzekać,Complain,/kəmˈpleɪn/,/kəmˈpleɪn/
+164,Chwalić,Praise,/preɪz/,/preɪz/
+165,Krytykować,Criticize,/ˈkrɪt̬.ə.saɪz/,/ˈkrɪt.ɪ.saɪz/
+166,Nie zgadzać się,Disagree,/ˌdɪs.əˈɡriː/,/ˌdɪs.əˈɡriː/
+167,Analizować,Analyze,/ˈæn.əl.aɪz/,/ˈæn.əl.aɪz/
+168,Obliczać,Calculate,/ˈkæl.kjə.leɪt/,/ˈkæl.kjə.leɪt/
+169,Identyfikować,Identify,/aɪˈden.t̬ə.faɪ/,/aɪˈden.tɪ.faɪ/
+170,Odkrywać,Discover,/dɪˈskʌv.ɚ/,/dɪˈskʌv.ə/
+171,Badać (teren),Explore,/ɪkˈsplɔːr/,/ɪkˈsplɔː/
+172,Projektować,Design,/dɪˈzaɪn/,/dɪˈzaɪn/
+173,Inwestować,Invest,/ɪnˈvest/,/ɪnˈvest/
+174,Głosować,Vote,/voʊt/,/vəʊt/
+175,Protestować,Protest,/ˈproʊ.test/,/prəˈtest/
+176,Rozciągać,Stretch,/stretʃ/,/stretʃ/
+177,Anulować,Cancel,/ˈkæn.səl/,/ˈkæn.səl/
+178,Drukować,Print,/prɪnt/,/prɪnt/
+179,Skanować,Scan,/skæn/,/skæn/
+180,Fotografować,Photograph,/ˈfoʊ.t̬ə.ɡræf/,/ˈfəʊ.tə.ɡrɑːf/
+181,Filmować,Film,/fɪlm/,/fɪlm/
+182,Reżyserować,Direct,/daɪˈrekt/,/dɪˈrekt/
+183,Występować,Perform,/pɚˈfɔːrm/,/pəˈfɔːm/
+184,Grać (aktorsko),Act,/ækt/,/ækt/
+185,Komponować,Compose,/kəmˈpoʊz/,/kəmˈpəʊz/
+186,Wiązać,Tie,/taɪ/,/taɪ/
+187,Składać,Fold,/foʊld/,/fəʊld/
+188,Ogrzewać,Heat,/hiːt/,/hiːt/
+189,Chłodzić,Cool,/kuːl/,/kuːl/
+190,Wstrząsać,Shake,/ʃeɪk/,/ʃeɪk/
+191,Kroić w kostkę,Dice,/daɪs/,/daɪs/
+192,Siekać,Chop,/tʃɑːp/,/tʃɒp/
+193,Grillować,Grill,/ɡrɪl/,/ɡrɪl/
+194,Zmywać naczynia,Wash dishes,/wɑːʃ dɪʃ.əz/,/wɒʃ dɪʃ.ɪz/
+195,Robić pranie,Do laundry,/duː ˈlɑːn.dri/,/duː ˈlɔːn.dri/
+196,Odkurzać,Vacuum,/ˈvæk.juːm/,/ˈvæk.juːm/
+197,Wycierać kurze,Dust,/dʌst/,/dʌst/
+198,Myć podłogę,Mop,/mɑːp/,/mɒp/
+199,Ścielić łóżko,Make the bed,/meɪk ðə bed/,/meɪk ðə bed/
+200,Wyrzucać śmieci,Take out the trash,/teɪk aʊt ðə træʃ/,/teɪk aʊt ðə træʃ/
+201,Tankować,Refuel,/ˌriːˈfjuː.əl/,/ˌriːˈfjʊəl/
+202,Lądować,Land,/lænd/,/lænd/
+203,Startować (o samolocie),Take off,/teɪk ɔːf/,/teɪk ɒf/
+204,Rozpakowywać,Unpack,/ʌnˈpæk/,/ʌnˈpæk/
+205,Pisać na klawiaturze,Type,/taɪp/,/taɪp/
+206,Komentować,Comment,/ˈkɑː.ment/,/ˈkɒm.ent/
+207,Lubić (w sieci),Like,/laɪk/,/laɪk/
+208,Rozwiązywać (węzeł),Untie,/ʌnˈtaɪ/,/ʌnˈtaɪ/
+209,Rozkładać,Unfold,/ʌnˈfoʊld/,/ʌnˈfəʊld/
+210,Przewidywać,Predict,/prɪˈdɪkt/,/prɪˈdɪkt/
+211,Szacować,Estimate,/ˈes.tə.meɪt/,/ˈes.tɪ.meɪt/
+212,Interpretować,Interpret,/ɪnˈtɝː.prɪt/,/ɪnˈtɜː.prɪt/
+213,Tłumaczyć,Translate,/trænsˈleɪt/,/trænsˈleɪt/
+214,Szeptać,Whisper,/ˈwɪs.pɚ/,/ˈwɪs.pə/
+215,Wrzeszczeć,Scream,/skriːm/,/skriːm/
+216,Gawędzić,Chat,/tʃæt/,/tʃæt/
+217,Plotkować,Gossip,/ˈɡɑː.səp/,/ˈɡɒs.ɪp/
+218,Przekonywać,Persuade,/pɚˈsweɪd/,/pəˈsweɪd/
+219,Motywować,Motivate,/ˈmoʊ.t̬ə.veɪt/,/ˈməʊ.tɪ.veɪt/
+220,Inspirować,Inspire,/ɪnˈspaɪr/,/ɪnˈspaɪə/
+221,Wpływać,Influence,/ˈɪn.flu.əns/,/ˈɪn.flu.əns/
+222,Przyznawać się,Admit,/ədˈmɪt/,/ədˈmɪt/
+223,Oskarżać,Accuse,/əˈkjuːz/,/əˈkjuːz/
+224,Uciekać,Escape,/ɪˈskeɪp/,/ɪˈskeɪp/
+225,Gonić,Chase,/tʃeɪs/,/tʃeɪs/
+226,Śledzić,Track,/træk/,/træk/
+227,Nawigować,Navigate,/ˈnæv.ə.ɡeɪt/,/ˈnæv.ɪ.ɡeɪt/
+228,Sterować,Steer,/stɪr/,/stɪə/
+229,Przyspieszać,Accelerate,/əkˈsel.ə.reɪt/,/əkˈsel.ə.reɪt/
+230,Hamować,Brake,/breɪk/,/breɪk/
+231,Cofać,Reverse,/rɪˈvɝːs/,/rɪˈvɜːs/
+232,Skręcać,Turn,/tɝːn/,/tɜːn/
+233,Sygnalizować,Signal,/ˈsɪɡ.nəl/,/ˈsɪɡ.nəl/
+234,Obserwować,Observe,/əbˈzɝːv/,/əbˈzɜːv/
+235,Monitorować,Monitor,/ˈmɑː.nə.t̬ɚ/,/ˈmɒn.ɪ.tə/
+236,Badać (naukowo),Research,/ˈriː.sɝːtʃ/,/rɪˈsɜːtʃ/
+237,Eksperymentować,Experiment,/ɪkˈsper.ə.ment/,/ɪkˈsper.ɪ.ment/
+238,Wynajdować,Invent,/ɪnˈvent/,/ɪnˈvent/
+239,Wprowadzać innowacje,Innovate,/ˈɪn.ə.veɪt/,/ˈɪn.ə.veɪt/
+240,Dostosowywać,Adjust,/əˈdʒʌst/,/əˈdʒʌst/
+241,Programować,Program,/ˈproʊ.ɡræm/,/ˈprəʊ.ɡræm/
+242,Kodować,Code,/koʊd/,/kəʊd/
+243,Publikować,Publish,/ˈpʌb.lɪʃ/,/ˈpʌb.lɪʃ/
+244,Promować,Promote,/prəˈmoʊt/,/prəˈməʊt/
+245,Reklamować,Advertise,/ˈæd.vɚ.taɪz/,/ˈæd.və.taɪz/
+246,Prowadzić marketing,Market,/ˈmɑːr.kɪt/,/ˈmɑː.kɪt/
+247,Budować sieć kontaktów,Network,/ˈnet.wɝːk/,/ˈnet.wɜːk/
+248,Konsultować,Consult,/kənˈsʌlt/,/kənˈsʌlt/
+249,Szkolić,Train,/treɪn/,/treɪn/
+250,Prowadzić coaching,Coach,/koʊtʃ/,/kəʊtʃ/
+251,Być mentorem,Mentor,/ˈmen.tɔːr/,/ˈmen.tɔː/
+252,Rezygnować,Quit,/kwɪt/,/kwɪt/
+253,Przechodzić na emeryturę,Retire,/rɪˈtaɪr/,/rɪˈtaɪə/
+254,Podróżować z plecakiem,Backpack,/ˈbæk.pæk/,/ˈbæk.pæk/
+255,Obserwować ptaki,Birdwatch,/ˈbɝːd.wɑːtʃ/,/ˈbɜːd.wɒtʃ/
+256,Dyrygować,Conduct,/kənˈdʌkt/,/kənˈdʌkt/
+257,Improwizować,Improvise,/ˈɪm.prə.vaɪz/,/ˈɪm.prə.vaɪz/
+258,Zabraniać,Forbid,/fɚˈbɪd/,/fəˈbɪd/
+259,Niszczyć,Destroy,/dɪˈstrɔɪ/,/dɪˈstrɔɪ/
+260,Wątpić,Doubt,/daʊt/,/daʊt/
+261,Zaprzeczać,Deny,/dɪˈnaɪ/,/dɪˈnaɪ/
+262,Medytować,Meditate,/ˈmed.ə.teɪt/,/ˈmed.ɪ.teɪt/
+263,Kleić,Glue,/ɡluː/,/ɡluː/
+264,Kurczyć się,Shrink,/ʃrɪŋk/,/ʃrɪŋk/
+265,Rozszerzać,Expand,/ɪkˈspænd/,/ɪkˈspænd/
+266,Instalować,Install,/ɪnˈstɔːl/,/ɪnˈstɔːl/
+267,Zachęcać,Encourage,/ɪnˈkɝː.ɪdʒ/,/ɪnˈkʌr.ɪdʒ/
+268,Doradzać,Advise,/ədˈvaɪz/,/ədˈvaɪz/
+269,Zniechęcać,Discourage,/dɪˈskɝː.ɪdʒ/,/dɪˈskʌr.ɪdʒ/
+270,Być wolontariuszem,Volunteer,/ˌvɑː.lənˈtɪr/,/ˌvɒl.ənˈtɪə/
+271,Poddawać się,Surrender,/səˈren.dɚ/,/səˈren.də/
+272,Rządzić,Govern,/ˈɡʌv.ɚn/,/ˈɡʌv.ən/
+273,Maszerować,March,/mɑːrtʃ/,/mɑːtʃ/
+274,Kontrastować,Contrast,/ˈkɑːn.træst/,/kənˈtrɑːst/
+275,Podsumowywać,Summarize,/ˈsʌm.ə.raɪz/,/ˈsʌm.ə.raɪz/
+276,Cytować,Quote,/kwoʊt/,/kwəʊt/
+277,Recytować,Recite,/rɪˈsaɪt/,/rɪˈsaɪt/
+278,Mamrotać,Mumble,/ˈmʌm.bəl/,/ˈmʌm.bəl/
+279,Wyznawać,Confess,/kənˈfes/,/kənˈfes/
+280,Adaptować się,Adapt,/əˈdæpt/,/əˈdæpt/
+281,Modyfikować,Modify,/ˈmɑː.də.faɪ/,/ˈmɒd.ɪ.faɪ/
+282,Personalizować,Customize,/ˈkʌs.tə.maɪz/,/ˈkʌs.tə.maɪz/
+283,Debugować,Debug,/diːˈbʌɡ/,/diːˈbʌɡ/
+284,Testować oprogramowanie,Test software,/test ˈsɔːft.wer/,/test ˈsɒft.weə/
+285,Hakować,Hack,/hæk/,/hæk/
+286,Szyfrować,Encrypt,/ɪnˈkrɪpt/,/ɪnˈkrɪpt/
+287,Deszyfrować,Decrypt,/diːˈkrɪpt/,/diːˈkrɪpt/
+288,Kompresować,Compress,/kəmˈpres/,/kəmˈpres/
+289,Dekompresować,Decompress,/ˌdiː.kəmˈpres/,/ˌdiː.kəmˈpres/
+290,Archiwizować,Archive,/ˈɑːr.kaɪv/,/ˈɑː.kaɪv/
+291,Rozpakowywać (plik),Unzip,/ʌnˈzɪp/,/ʌnˈzɪp/
+292,Formatować,Format,/ˈfɔːr.mæt/,/ˈfɔː.mæt/
+293,Robić korektę,Proofread,/ˈpruːf.riːd/,/ˈpruːf.riːd/
+294,Budować markę,Brand,/brænd/,/brænd/
+295,Parafrazować,Paraphrase,/ˈper.ə.freɪz/,/ˈpær.ə.freɪz/
+296,Wąchać,Smell,/smel/,/smel/
+297,Smakować,Taste,/teɪst/,/teɪst/
+298,Produkować,Produce,/prəˈduːs/,/prəˈdjuːs/
+299,Adaptować (utwór),Adapt,/əˈdæpt/,/əˈdæpt/
+300,Deklamować,Declaim,/dɪˈkleɪm/,/dɪˈkleɪm/
+301,Oklaskiwać,Applaud,/əˈplɔːd/,/əˈplɔːd/
+302,Gwizdać,Whistle,/ˈwɪs.əl/,/ˈwɪs.əl/
+303,Nucić,Hum,/hʌm/,/hʌm/
+304,Ziewać,Yawn,/jɔːn/,/jɔːn/
+305,Kichać,Sneeze,/sniːz/,/sniːz/
+306,Kaszleć,Cough,/kɑːf/,/kɒf/
+307,Przełykać,Swallow,/ˈswɑː.loʊ/,/ˈswɒl.əʊ/
+308,Gryźć,Bite,/baɪt/,/baɪt/
+309,Żuć,Chew,/tʃuː/,/tʃuː/
+310,Ssać,Suck,/sʌk/,/sʌk/
+311,Lizać,Lick,/lɪk/,/lɪk/
+312,Mrugać,Blink,/blɪŋk/,/blɪŋk/
+313,Wpatrywać się,Stare,/ster/,/steə/
+314,Rzucać okiem,Glance,/ɡlæns/,/ɡlɑːns/
+315,Podglądać,Peek,/piːk/,/piːk/
+316,Marszczyć brwi,Frown,/fraʊn/,/fraʊn/
+317,Kiwać głową,Nod,/nɑːd/,/nɒd/
+318,Wzruszać ramionami,Shrug,/ʃrʌɡ/,/ʃrʌɡ/
+319,Wskazywać,Point,/pɔɪnt/,/pɔɪnt/
+320,Machać,Wave,/weɪv/,/weɪv/
+321,Przytulać,Hug,/hʌɡ/,/hʌɡ/
+322,Całować,Kiss,/kɪs/,/kɪs/
+323,Kłaniać się,Bow,/baʊ/,/baʊ/
+324,Klękać,Kneel,/niːl/,/niːl/
+325,Czołgać się,Crawl,/krɔːl/,/krɔːl/
+326,Leżeć,Lie down,/laɪ daʊn/,/laɪ daʊn/
+327,Przechylać się,Lean,/liːn/,/liːn/
+328,Ślizgać się,Slide,/slaɪd/,/slaɪd/
+329,Poślizgnąć się,Slip,/slɪp/,/slɪp/
+330,Potknąć się,Trip,/trɪp/,/trɪp/
+331,Upadać,Fall,/fɑːl/,/fɔːl/
+332,Uderzać,Hit,/hɪt/,/hɪt/
+333,Kopać,Kick,/kɪk/,/kɪk/
+334,Drapać,Scratch,/skrætʃ/,/skrætʃ/
+335,Łaskotać,Tickle,/ˈtɪk.əl/,/ˈtɪk.əl/
+336,Pocierać,Rub,/rʌb/,/rʌb/
+337,Wylewać,Spill,/spɪl/,/spɪl/
+338,Nalewać,Pour,/pɔːr/,/pɔː/
+339,Opróżniać,Empty,/ˈemp.ti/,/ˈemp.ti/
+340,Napełniać,Fill,/fɪl/,/fɪl/
+341,Pakować (prezent),Wrap,/ræp/,/ræp/
+342,Dekorować,Decorate,/ˈdek.ə.reɪt/,/ˈdek.ə.reɪt/
+343,Meblować,Furnish,/ˈfɝː.nɪʃ/,/ˈfɜː.nɪʃ/
+344,Renowować,Renovate,/ˈren.ə.veɪt/,/ˈren.ə.veɪt/
+345,Demolować,Demolish,/dɪˈmɑː.lɪʃ/,/dɪˈmɒl.ɪʃ/
+346,Wiercić,Drill,/drɪl/,/drɪl/
+347,Młotkować,Hammer,/ˈhæm.ɚ/,/ˈhæm.ə/
+348,Piłować,Saw,/sɔː/,/sɔː/
+349,Wkręcać,Screw,/skruː/,/skruː/
+350,Nitować,Rivet,/ˈrɪv.ɪt/,/ˈrɪv.ɪt/
+351,Spawać,Weld,/weld/,/weld/
+352,Lutować,Solder,/ˈsɑː.dɚ/,/ˈsɒl.də/
+353,Topnieć,Melt,/melt/,/melt/
+354,Zamarzać,Freeze,/friːz/,/friːz/
+355,Parować,Evaporate,/ɪˈvæp.ə.reɪt/,/ɪˈvæp.ə.reɪt/
+356,Skraplać,Condense,/kənˈdens/,/kənˈdens/
+357,Rozpuszczać,Dissolve,/dɪˈzɑːlv/,/dɪˈzɒlv/
+358,Filtrować,Filter,/ˈfɪl.tɚ/,/ˈfɪl.tə/
+359,Przesiewać,Sift,/sɪft/,/sɪft/
+360,Ugniatać,Knead,/niːd/,/niːd/
+361,Wałkować,Roll,/roʊl/,/rəʊl/
+362,Ubijać,Whisk,/wɪsk/,/wɪsk/
+363,Trzeć,Grate,/ɡreɪt/,/ɡreɪt/
+364,Obierać,Peel,/piːl/,/piːl/
+365,Marynować,Marinate,/ˈmer.ə.neɪt/,/ˈmær.ɪ.neɪt/
+366,Nadziewać,Stuff,/stʌf/,/stʌf/
+367,Dekorować (jedzenie),Garnish,/ˈɡɑːr.nɪʃ/,/ˈɡɑː.nɪʃ/
+368,Serwować,Serve,/sɝːv/,/sɜːv/
+369,Degustować,Taste,/teɪst/,/teɪst/
+370,Przekąsić,Snack,/snæk/,/snæk/
+371,Ucztować,Feast,/fiːst/,/fiːst/
+372,Głodować,Starve,/stɑːrv/,/stɑːv/
+373,Odczuwać pragnienie,Thirst,/θɝːst/,/θɜːst/
+374,Nawadniać,Hydrate,/ˈhaɪ.dreɪt/,/haɪˈdreɪt/
+375,Odwadniać,Dehydrate,/ˌdiː.haɪˈdreɪt/,/ˌdiː.haɪˈdreɪt/
+376,Goić,Heal,/hiːl/,/hiːl/
+377,Ranić,Injure,/ˈɪn.dʒɚ/,/ˈɪn.dʒə/
+378,Krwawić,Bleed,/bliːd/,/bliːd/
+379,Leczyć (medycznie),Treat,/triːt/,/triːt/
+380,Diagnozować,Diagnose,/ˌdaɪ.əɡˈnoʊs/,/ˌdaɪ.əɡˈnəʊs/
+381,Przepisywać,Prescribe,/prɪˈskraɪb/,/prɪˈskraɪb/
+382,Operować,Operate,/ˈɑː.pə.reɪt/,/ˈɒp.ə.reɪt/
+383,Szczepić,Vaccinate,/ˈvæk.sə.neɪt/,/ˈvæk.sɪ.neɪt/
+384,Rehabilitować,Rehabilitate,/ˌriː.həˈbɪl.ə.teɪt/,/ˌriː.həˈbɪl.ɪ.teɪt/
+385,Uzależniać,Addict,/əˈdɪkt/,/əˈdɪkt/
+386,Przezwyciężać,Overcome,/ˌoʊ.vɚˈkʌm/,/ˌəʊ.vəˈkʌm/
+387,Zmagać się,Struggle,/ˈstrʌɡ.əl/,/ˈstrʌɡ.əl/
+388,Radzić sobie,Cope,/koʊp/,/kəʊp/
+389,Przetrwać,Survive,/sɚˈvaɪv/,/səˈvaɪv/
+390,Rozkwitać,Thrive,/θraɪv/,/θraɪv/
+391,Wycieńczać,Exhaust,/ɪɡˈzɔːst/,/ɪɡˈzɔːst/
+392,Odświeżać,Refresh,/rɪˈfreʃ/,/rɪˈfreʃ/
+393,Odnawiać,Renew,/rɪˈnuː/,/rɪˈnjuː/
+394,Przywracać,Restore,/rɪˈstɔːr/,/rɪˈstɔː/
+395,Odtwarzać,Recreate,/ˌriː.kriˈeɪt/,/ˌriː.kriˈeɪt/
+396,Naśladować,Imitate,/ˈɪm.ə.teɪt/,/ˈɪm.ɪ.teɪt/
+397,Udawać,Pretend,/prɪˈtend/,/prɪˈtend/
+398,Symulować,Simulate,/ˈsɪm.jə.leɪt/,/ˈsɪm.jə.leɪt/
+399,Weryfikować,Verify,/ˈver.ə.faɪ/,/ˈver.ɪ.faɪ/
+400,Fałszować,Falsify,/ˈfɔːl.sə.faɪ/,/ˈfɒl.sɪ.faɪ/
