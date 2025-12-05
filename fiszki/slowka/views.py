@@ -1,21 +1,21 @@
-from django.http import JsonResponse, HttpRequest  # <-- Dodajemy HttpRequest do typowania
+from django.shortcuts import render
+from django.http import HttpResponse
+from .models import Slowko
 
+def szukaj_slowka(request):
+    # 2. LOGIKA: Pobieramy losowe słówko z bazy
+    # .order_by('?') to sposób Django na losowanie rekordu
+    # .first() bierze pierwszy wynik z tej posortowanej losowo listy
+    wylosowane_slowko = Slowko.objects.order_by('?').first()
 
-def szukaj_slowka(request: HttpRequest):
-    """
-    Endpoint wyszukiwania.
-    """
-    # Używamy requesta do logowania (teraz zmienna jest 'used')
-    print(f"Szukam słówka dla metody: {request.method} na ścieżce: {request.path}")
+    # 3. PRZEKAZANIE: Pakujemy dane do słownika
+    # Klucz 'fiszka' musi pasować do tego, co wpisałeś w HTML ({{ fiszka.angielski }})
+    context = {
+        'fiszka': wylosowane_slowko
+    }
 
-    return JsonResponse({"message": "Wyszukiwarka w budowie"})
+    # Renderujemy plik index.html z naszymi danymi
+    return render(request, 'index.html', context)
 
-
-def ping(request: HttpRequest):
-    """
-    Healthcheck.
-    """
-    # Nawet w ping warto sprawdzić, czy request przyszedł
-    if request.method == 'GET':
-        return JsonResponse({"status": "pong"})
-    return JsonResponse({"status": "error", "message": "Only GET allowed"}, status=405)
+def ping(request):
+    return HttpResponse("Pong!")
