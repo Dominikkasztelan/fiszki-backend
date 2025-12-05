@@ -1,10 +1,21 @@
-from django.shortcuts import render
-from .models import Slowko
+from django.http import JsonResponse, HttpRequest  # <-- Dodajemy HttpRequest do typowania
 
 
-def strona_glowna(request):
-    # Losuje jedno słówko. Jeśli baza pusta, zmienna będzie None
-    fiszka = Slowko.objects.order_by('?').first()
+def szukaj_slowka(request: HttpRequest):
+    """
+    Endpoint wyszukiwania.
+    """
+    # Używamy requesta do logowania (teraz zmienna jest 'used')
+    print(f"Szukam słówka dla metody: {request.method} na ścieżce: {request.path}")
 
-    # Przekazujemy fiszkę do HTML-a
-    return render(request, 'index.html', {'fiszka': fiszka})
+    return JsonResponse({"message": "Wyszukiwarka w budowie"})
+
+
+def ping(request: HttpRequest):
+    """
+    Healthcheck.
+    """
+    # Nawet w ping warto sprawdzić, czy request przyszedł
+    if request.method == 'GET':
+        return JsonResponse({"status": "pong"})
+    return JsonResponse({"status": "error", "message": "Only GET allowed"}, status=405)

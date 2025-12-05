@@ -1,8 +1,16 @@
 from django.contrib import admin
 from django.urls import path
-from slowka.views import strona_glowna  # Importujemy Twój widok
+# Importujemy nasze funkcje z aplikacji 'slowka'
+from slowka.views import szukaj_slowka, ping
 
 urlpatterns = [
+    # Panel administratora
     path('admin/', admin.site.urls),
-    path('', strona_glowna),  # Pusta ścieżka ('') to strona główna
+
+    # Nasze nowe widoki
+    # 1. Jak wejdziesz na /szukaj/ -> uruchomi się szukaj_slowka
+    path('szukaj/', szukaj_slowka, name='szukaj_slowka'),
+
+    # 2. Jak wejdziesz na /ping/ -> uruchomi się ping (test działania)
+    path('ping/', ping, name='ping'),
 ]
